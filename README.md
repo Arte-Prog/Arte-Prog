@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Arte-Prog!  
+## 👋 Hi, I'm Arte!  
 
 🚀 **Web developer passionate about open-source software**, clean code, and intuitive interfaces.  
 💡 I love turning ideas into practical solutions, combining **design and functionality**.  
